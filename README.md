@@ -1,2 +1,3 @@
 # acse2018
-GitHub practice
+## GitHub practice
+This is a group project!
